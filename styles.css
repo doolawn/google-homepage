@@ -1,0 +1,76 @@
+.dButton {
+  border-radius: 50%;
+  overflow: hidden;
+  top: 15px;
+  right: 15px;
+  position: absolute;
+}
+
+.dButton img {
+  display: block;
+  min-width: 100%;
+  min-height: 100%;
+  height: auto;
+  width: auto;
+  max-width: 35px;
+  max-height: 35px;
+}
+
+.bellButton {;
+  top: 25px;
+  right: 68px;
+  position: absolute;
+}
+
+.bellButton img {
+  height: auto;
+  width: auto;
+  max-width: 20px;
+  max-height: 20px;
+}
+
+.buttonsMenu {
+  top: 25px;
+  right: 100px;
+  position: absolute;
+}
+
+.buttonsMenu img {
+  height: auto;
+  width: auto;
+  max-width: 20px;
+  max-height: 20px;
+}
+
+#links {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+}
+
+.gmailLink {
+  top: 25px;
+  right: 190px;
+  position: absolute;
+}
+
+.imagesLink {
+  top: 25px;
+  right: 140px;
+  position: absolute;
+}
+
+.logo {
+  top: 130px;
+  left: 360px;
+  position: absolute;
+}
+ .searchBar {
+   top: 400px;
+   left: 360px;
+   position: absolute;
+ }
+
+ .searchBar input {
+   width: 570px;
+   height: 37px;
+ }
