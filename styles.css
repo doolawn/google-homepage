@@ -70,7 +70,56 @@
    position: absolute;
  }
 
+ .buttons {
+   top: 460px;
+   left: 450px;
+   position: absolute;
+ }
+
+#buTon {
+  cursor:pointer;
+  color:#777777;
+  font-family:Arial;
+  font-size:15px;
+  font-weight:bold;
+  padding:16px 45px;
+  text-decoration:none;
+}
+
+footer {
+  color:#777777;
+}
+
+.leftText {
+  bottom:15px;
+  left:15px;
+  position:absolute;
+}
+
+.rightText {
+  bottom:15px;
+  right:15px;
+  position:absolute;
+}
+
+.footerBar {
+  height:40px;
+  width:100%;
+  bottom:0px;
+  left:0px;
+  right:0px;
+  background-color:#E5E5E5;
+  position:fixed;
+  margin-bottom: 0px;
+}
+
+
  .searchBar input {
    width: 570px;
    height: 37px;
+   font-size:1.5em;
+ }
+
+ body {
+   margin-bottom: 50px;
  }
